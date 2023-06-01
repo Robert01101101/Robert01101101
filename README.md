@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hi there 👋
 
 I’m Robert Michels, a designer, and developer from Vancouver. I've always had a love for working on personal projects of all sorts, which led me to attended Simon Fraser University (SFU), where I earned my Bachelor’s Degree of Science with a major in Interactive Arts & Technology. My degree and my inexhaustible curiosity have made me an expert in the combination of design and technology.
 
@@ -11,8 +11,7 @@ I’m Robert Michels, a designer, and developer from Vancouver. I've always had 
 [![Play Store Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Studio+RM)
 
 
-
-## Technologies 👨🏻‍💻
+## Tools 👨🏻‍💻
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
