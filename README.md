@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m Robert Michels, a designer, and developer from Vancouver. I've always had a love for working on personal projects of all sorts, which led me to attended Simon Fraser University (SFU), where I earned my Bachelor’s Degree of Science with a major in Interactive Arts & Technology. My degree and my inexhaustible curiosity have made me an expert in the combination of design and technology.
+I'm Robert Michels, a designer, and developer from Vancouver. My inexhaustible curiosity and love for digital media led me to attend Simon Fraser University (SFU), where I earned my Bachelor's Degree of Science with a major in Interactive Arts & Technology. I've prototyped, designed, and developed various interactive applications throughout my career, covering everything from XR to web development. These experiences have shaped me into a designer who emphasizes a user-goal-driven approach, a developer who values scalability and accessibility, and an expert in rapid prototyping.
 
-**I'm currently looking for work, contact me if you would like to make cool stuff together!**
+**I'm currently looking for work. Contact me if you would like to make cool stuff together!**
 
 [![Portfolio Badge](https://rmichels.com/assets/other/GHBadge-Portfolio-v3.svg)](https://rmichels.com)
 [![Email Badge](https://rmichels.com/assets/other/GHBadge-Email-v2.svg)](mailto:hi@rmichels.com)
