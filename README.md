@@ -9,11 +9,12 @@ I've prototyped, designed, and developed various interactive applications throug
 [![Portfolio Badge](https://rmichels.com/assets/other/GHBadge-Portfolio-v3.svg)](https://rmichels.com/?portfolio_link=github)
 [![Email Badge](https://rmichels.com/assets/other/GHBadge-Email-v2.svg)](mailto:hi@rmichels.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-michels/)
-<!-- [![Itch.io Badge](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rmichels.itch.io/)
-[![Play Store Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Studio+RM) -->
+[![Itch.io Badge](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rmichels.itch.io/)
+[![Play Store Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Studio+RM)
 
 &nbsp;  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert01101101&layout=donut&size_weight=0.5&count_weight=0.5&hide=c,c%2B%2B,shaderlab,html,hlsl)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robert01101101&mode=weekly&card_height=215)](https://git.io/streak-stats)
 
 
 
