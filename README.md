@@ -12,6 +12,7 @@ My background is very interdisciplinary, I've always had an inexhaustible curios
 [![Email Badge](https://rmichels.com/assets/other/GHBadge-Email-v2.svg)](mailto:hi@rmichels.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-michels/)
 [![Itch.io Badge](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rmichels.itch.io/)
+[![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white)](https://sidequestvr.com/user/353438)
 [![Play Store Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Studio+RM)
 
 &nbsp;  
