@@ -13,8 +13,8 @@ I've prototyped, designed, and developed various interactive applications throug
 [![Play Store Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Studio+RM)
 
 &nbsp;  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert01101101&layout=donut&size_weight=0.5&count_weight=0.5&hide=c,c%2B%2B,shaderlab,html,hlsl)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Robert01101101&mode=weekly&card_height=215)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert01101101&layout=compact&size_weight=0.4&count_weight=0.6&hide=c,c%2B%2B,shaderlab,hlsl,cmake,swift&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Robert01101101&mode=weekly&card_height=190)](https://git.io/streak-stats)
 
 
 
