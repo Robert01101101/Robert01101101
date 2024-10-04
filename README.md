@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm a designer and developer from Vancouver. My inexhaustible curiosity and love for digital media led me to attend Simon Fraser University (SFU), where I earned my Bachelor's Degree of Science with a major in Interactive Arts & Technology.
+I'm Robert, a software designer and developer from Vancouver. I love working with innovative technologies and learning new things, which has led me to become a full-stack developer working on anything from cross-platform apps to XR experiences and video games.
 
-I've prototyped, designed, and developed various interactive applications throughout my career, covering everything from XR to web development. These experiences have shaped me into a designer who emphasizes a user-goal-driven approach, a developer who values scalability and accessibility, and an expert in rapid prototyping.
+These days I'm looking for work and keeping myself busy by working on a personal Flutter project. Before that, I spent 3 years working as a Mixed Reality Software Developer at Clirio, where I developed cross-platform XR GIS apps in Unity with C#, and got to work with technologies like ASP.NET Blazor and Three.js.
+
+My background is very interdisciplinary, I've always had an inexhaustible curiosity and love for digital media, which led me to attend Simon Fraser University (SFU), where I earned my Bachelor's Degree of Science with a major in Interactive Arts & Technology. In this program, I learned the principles of Design, Media Arts, and Programming, in a highly collaborative and iterative environment. These experiences have shaped me into a designer who emphasizes the user experience, a developer who values scalability and accessibility, and an expert in rapid prototyping.
 
 **Contact me if you would like to make cool stuff together! I'm currently looking for work.**
 
