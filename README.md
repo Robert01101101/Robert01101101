@@ -20,7 +20,6 @@ My background is very interdisciplinary, I've always had an inexhaustible curios
 [![GitHub Streak](https://streak-stats.demolab.com?user=Robert01101101&mode=weekly&card_height=190)](https://git.io/streak-stats)
 
 
-
   
 &nbsp;  
    
