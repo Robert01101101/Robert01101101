@@ -2,11 +2,11 @@
 
 I'm Robert, a software designer and developer from Vancouver. I love working with innovative technologies and learning new things, which has led me to become a full-stack developer working on anything from cross-platform apps to XR experiences and video games.
 
-These days I'm looking for work and keeping myself busy by working on a personal Flutter project. Before that, I spent 3 years working as a Mixed Reality Software Developer at Clirio, where I developed cross-platform XR GIS apps in Unity with C#, and got to work with technologies like ASP.NET Blazor and Three.js.
+These days I work as a Full-Stack Web Developer at Qwadra Vancouver, developing web features with ASP.NET and React. I also occasionally work on personal projects, like my Flutter app *Tourguide*. Before that, I spent 3 years working as a Mixed Reality Software Developer at Clirio, where I developed cross-platform XR GIS apps in Unity with C#, and got to work with technologies like MRTK, Blazor and Three.js.
 
 My background is very interdisciplinary, I've always had an inexhaustible curiosity and love for digital media. I studied at Simon Fraser University (SFU), where I earned my Bachelor's Degree of Science with a major in Interactive Arts & Technology. In this program, I learned the principles of Design, Media Arts, and Programming, in a highly collaborative and iterative environment. These experiences have shaped me into a designer who emphasizes the user experience, a developer who values scalability and accessibility, and an expert in rapid prototyping.
 
-**Contact me if you would like to make cool stuff together! I'm currently looking for work.**
+**Contact me if you would like to make cool stuff together! I'm always open to exploring interesting projects.**
 
 [![Portfolio Badge](https://rmichels.com/assets/other/GHBadge-Portfolio-v3.svg)](https://rmichels.com/?portfolio_link=github)
 [![Email Badge](https://rmichels.com/assets/other/GHBadge-Email-v2.svg)](mailto:hi@rmichels.com)
@@ -19,7 +19,6 @@ My background is very interdisciplinary, I've always had an inexhaustible curios
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert01101101&layout=compact&size_weight=0.4&count_weight=0.6&hide=c,c%2B%2B,shaderlab,hlsl,cmake,swift&langs_count=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Robert01101101&mode=weekly&card_height=190)](https://git.io/streak-stats)
 
-
   
 &nbsp;  
    
@@ -31,6 +30,7 @@ My background is very interdisciplinary, I've always had an inexhaustible curios
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
@@ -42,7 +42,8 @@ My background is very interdisciplinary, I've always had an inexhaustible curios
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![D3JS](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Photon](https://img.shields.io/badge/photon-%23004480.svg?style=for-the-badge&logo=photon&logoColor=white)
 
 ## Tools 🛠️
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
