@@ -6,7 +6,6 @@ I've prototyped, designed, and developed various interactive applications throug
 
 Nowadays I work as a Full-Stack Web Developer at Qwadra Vancouver, developing web features with ASP.NET and React. I also occasionally work on personal projects, like my Flutter app *Tourguide*. Before that, I spent 3 years working as a Mixed Reality Software Developer at Clirio, where I developed cross-platform XR GIS apps in Unity with C#, and got to work with technologies like MRTK, Blazor and Three.js.
 
-
 **Contact me if you would like to make cool stuff together! I'm always open to exploring interesting projects.**
 
 [![Portfolio Badge](https://rmichels.com/assets/other/GHBadge-Portfolio-v3.svg)](https://rmichels.com/?portfolio_link=github)
@@ -15,14 +14,12 @@ Nowadays I work as a Full-Stack Web Developer at Qwadra Vancouver, developing we
 [![Itch.io Badge](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://rmichels.itch.io/)
 [![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white)](https://sidequestvr.com/user/353438)
 [![Play Store Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Studio+RM)
-
 &nbsp;  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert01101101&layout=compact&size_weight=0.4&count_weight=0.6&hide=c,c%2B%2B,shaderlab,hlsl,cmake,swift&langs_count=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Robert01101101&mode=weekly&card_height=190)](https://git.io/streak-stats)
 
-  
 &nbsp;  
-   
 ## Programming 👨🏻‍💻
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
